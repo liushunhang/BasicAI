@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\BasicAI.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{6CF85E92-BAF6-4AED-916A-A2846DFC0A9A}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\BasicAI.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\BasicAIEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{0ED7B6A3-4D57-4A8A-81DD-C18018BC218C}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\BasicAI">
+			<UniqueIdentifier>{FD23BC73-1819-4ADE-BAA7-229A41EDD2BB}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\BasicAI\AICharacter.cpp">
+			<Filter>Source\BasicAI</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BasicAI\AICharacter.h">
+			<Filter>Source\BasicAI</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\BasicAI\BasicAI.Build.cs">
+			<Filter>Source\BasicAI</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\BasicAI\BasicAI.cpp">
+			<Filter>Source\BasicAI</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BasicAI\BasicAI.h">
+			<Filter>Source\BasicAI</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BasicAI\BasicAICharacter.cpp">
+			<Filter>Source\BasicAI</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BasicAI\BasicAICharacter.h">
+			<Filter>Source\BasicAI</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BasicAI\BasicAIGameMode.cpp">
+			<Filter>Source\BasicAI</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BasicAI\BasicAIGameMode.h">
+			<Filter>Source\BasicAI</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BasicAI\BotTargetPoint.cpp">
+			<Filter>Source\BasicAI</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BasicAI\BotTargetPoint.h">
+			<Filter>Source\BasicAI</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BasicAI\BTTargetPointSelection.cpp">
+			<Filter>Source\BasicAI</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BasicAI\BTTargetPointSelection.h">
+			<Filter>Source\BasicAI</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BasicAI\MyAIController.cpp">
+			<Filter>Source\BasicAI</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BasicAI\MyAIController.h">
+			<Filter>Source\BasicAI</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

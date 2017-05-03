@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{511CFAF6-40AF-0D11-D1ED-DD856950CCDD}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "BasicAI",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"AIModule"
+			]
+		}
+	]
+}
